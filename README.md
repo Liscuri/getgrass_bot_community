@@ -52,7 +52,7 @@ If you don't want to use proxies open the `no_proxy.py` file and input your user
 
 The original creator of this project can be found [here](https://github.com/ymmmmmmmm/getgrass_bot).
 
-This still uses the normal node (1x gain) and this is updated to use the community node (1.25x gain). The URLs inside `ui.py` are still the original. If you want to support him by using his [referral link](https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4) feel free to.
+The original still uses the normal node (1x gain), but this is updated to use the community node (1.25x gain). The URLs inside `ui.py` are still the original. If you want to support him by using his [referral link](https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4) feel free to.
 
 # Cheap proxies 💸
 

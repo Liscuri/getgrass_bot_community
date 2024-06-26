@@ -59,7 +59,7 @@ This still uses the normal node (1x gain) and this is updated to use the communi
 For cheap static residential socks5 proxies check out [IPRoyal](https://iproyal.com/?r=494893).
 
 <a href="https://iproyal.com/?r=494893" target="_blank">
-<img src="https://dashboard.iproyal.com/img/b/630_3.jpg" alt="https://iproyal.com/">
+<img src="https://dashboard.iproyal.com/img/b/728_1.jpg" alt="https://iproyal.com/">
 </a>
 
 # Issues 🐛

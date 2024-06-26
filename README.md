@@ -3,11 +3,6 @@
 
 A easy to use non-ui and ui based program to keep grass running by connecting to their server without a extension. This can be used on a VPS or ran locally with or without proxies.
 
-
-
-
-
-
 # How to run 📝
 
 Clone the project
@@ -36,14 +31,12 @@ For the ui version:
 python ui.py
 ```
 
-
-    
 # How to configure 🛠️
 
 ## Proxies 🌐
 If you want to use proxies you can either open the `proxy.py` file and input your proxies in the array on line `71` in the `main()` function.
 
-The proxies should be inputed like this;
+The proxies should be input like this;
 ```json
 socks5_proxy_list = [
         'socks5://user:pwd@ip:port',
@@ -59,7 +52,8 @@ If you don't want to use proxies open the `no_proxy.py` file and input your user
 
 The original creator of this project can be found [here](https://github.com/ymmmmmmmm/getgrass_bot).
 
-This still uses the normal node (1x gain) and this is updated to use the community node (1.25x gain). The urls inside `ui.py` are still the original. If you want to support him by using his [referral link](https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4) feel free to.
+This still uses the normal node (1x gain) and this is updated to use the community node (1.25x gain). The URLs inside `ui.py` are still the original. If you want to support him by using his [referral link](https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4) feel free to.
+
 # Cheap proxies 💸
 
 For cheap static residential socks5 proxies check out [IPRoyal](https://iproyal.com/?r=494893).
@@ -67,6 +61,7 @@ For cheap static residential socks5 proxies check out [IPRoyal](https://iproyal.
 <a href="https://iproyal.com/?r=494893" target="_blank">
 <img src="https://dashboard.iproyal.com/img/b/630_3.jpg" alt="https://iproyal.com/">
 </a>
+
 # Issues 🐛
 
-For any issues feel free to create a issue!
+For any issues feel free to create an issue!

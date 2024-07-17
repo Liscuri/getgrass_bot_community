@@ -44,7 +44,7 @@ socks5_proxy_list = [
     ]
 ```
 
-While using the `ui.py` you fill in the `user_id` and your `sock5 proxy`. You can only use one proxy.
+While using the `ui.py` you fill in the `user_id` and your `socks5 proxy`. You can only use one proxy.
 
 ## Non proxies 🛜
 If you don't want to use proxies open the `no_proxy.py` file and input your user_id on line `68` in the `main()` function.
